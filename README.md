@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Ahmad Al-Khateeb, a Cybersecurity student, with a passion for offensive security and technology.<br><br>🔒 Aspiring Cybersecurity Specialist focused on ethical hacking and penetration testing.<br><br>💻 Proficient in Java and familiar with Python, C++, and Linux systems.<br><br>🌱 Currently expanding my knowledge in offensive security tools, network security, and cloud technologies.
+Hi there! 👋 I'm Ahmad Al-Khateeb, a Cybersecurity student, with a passion for offensive security and technology.<br><br>🔒 Aspiring Cybersecurity Specialist focused on ethical hacking and penetration testing.<br><br>💻 Proficient in Java and familiar with Python,and C++.<br><br>🌱 Currently expanding my knowledge in offensive security tools, network security ,Network intelligence, and cloud technologies.
 
 
 ## 🌐 Socials:
